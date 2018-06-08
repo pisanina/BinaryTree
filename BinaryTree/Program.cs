@@ -1,17 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BinaryTree
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine("dataNode");
 
+            Tree MyTree = new Tree();
+            MyTree.AddNode(4);
+            MyTree.AddNode(1);
+            MyTree.AddNode(7);
+            MyTree.AddNode(2);
+            MyTree.AddNode(6);
+            MyTree.AddNode(-5);
+            MyTree.AddNode(12);
+            MyTree.ShowTree();
 
+            Console.ReadLine();
         }
     }
 }

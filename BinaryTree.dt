@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT2H45M5.5093207S" SolutionTotalViewTime="PT1H29M53.0084764S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT55.882159S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-12T06:01:43.1193131+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Properties\AssemblyInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:17:36.7803047+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>BinaryTree\BinaryTree.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:18:38.2110974+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT37M2.3600049S" EditActiveTime="PT56M8.1640681S">
+      <ModifiedDate>2017-09-04T20:14:04.7455505+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>13</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T06:02:11.8110576+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M30.9447347S" EditActiveTime="PT2.5750507S">
+      <ModifiedDate>2017-09-03T16:31:21.562966+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\packages.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:16:59.6806282+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13M21.6199732S" EditActiveTime="PT9M20.6538397S">
+      <ModifiedDate>2017-09-03T14:14:13.973371+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-01T22:05:18.2083925+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\TestsTree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-09-03T14:19:50.4803267+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT27M58.0904906S" EditActiveTime="PT1H36M6.4982155S">
+      <ModifiedDate>2017-09-04T20:13:58.4149745+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>6</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T10:15:54.2782079+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18.1469486S" EditActiveTime="PT2M0.0584569S">
+      <ModifiedDate>2017-09-03T15:36:57.4904024+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:34:44.6059327+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M41.8448241S" EditActiveTime="PT1M27.5596898S">
+      <ModifiedDate>2017-09-03T15:47:39.642512+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>9</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:39:37.4794381+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT55.878158S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-12T06:01:43.1193131+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT35.4742259S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-10T17:13:02.3062237+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.5122972S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T23:21:55.1578832+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2361653S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T23:21:52.9152166+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.448838S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T23:21:51.4588768+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M2.3554963S" EditActiveTime="PT16M43.6356137S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T08:08:34.336292+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.2816011S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:28:03.6267201+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.38595S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:27:51.2397701+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0874261S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:27:42.9037205+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.7830894S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:27:26.5688598+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M54.6520165S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:22:29.3308453+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT34.3071506S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:22:26.9823143+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M1.7676653S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:20:25.2091477+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT35.8124661S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:18:47.964824+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT29.8974988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:18:06.4672184+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.1956539S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:18:05.4603197+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.5842626S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:18:00.2779058+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39.2165127S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:12:56.6979832+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M28.541126S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-08T00:00:08.2987909+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT56.7506729S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:52:49.7764539+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.2287297S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:52:45.5477242+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT50.0755715S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:43:06.3783914+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M2.8921416S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:38:06.7723799+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M48.1432933S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:32:29.0793616+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT44.2766791S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:31:49.8107389+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1817171S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:29:43.0490024+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.2174657S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:29:39.8305362+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.3000327S" EditActiveTime="PT39.5112673S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:29:29.7719698+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M59.3375181S" EditActiveTime="PT59.8546984S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T23:14:10.9663055+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M43.4459744S" EditActiveTime="PT11M26.8641162S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-07T19:52:24.4907043+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8880896S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-05T08:58:04.8383523+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT41.3905601S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-04T06:22:16.4801118+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.1408057S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-04T06:15:03.9836123+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M13.5088815S" EditActiveTime="PT33M13.4276442S">
+      <ModifiedDate>2017-09-04T20:13:58.4149745+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-04T06:00:19.3346265+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.8356562S" EditActiveTime="PT1M43.4711361S">
+      <ModifiedDate>2017-09-04T20:14:04.7455505+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-04T05:59:15.9623883+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M30.9447347S" EditActiveTime="PT2.5750507S">
+      <ModifiedDate>2017-09-03T16:31:21.562966+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\packages.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T16:18:38.4645103+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M23.0855932S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:41:42.6035296+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M9.798388S" EditActiveTime="PT1M27.5596898S">
+      <ModifiedDate>2017-09-03T15:47:39.642512+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tests\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:39:37.4794381+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M15.9998705S" EditActiveTime="PT1M51.0356929S">
+      <ModifiedDate>2017-09-03T16:19:33.6307387+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\praca\projekty\vs17\projects\binarytree\binarytree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:37:11.5552542+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18.1469486S" EditActiveTime="PT2M0.0584569S">
+      <ModifiedDate>2017-09-03T15:36:57.4904024+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\TreeTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:34:44.6059327+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M38.4143159S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T15:31:42.9558043+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M58.0434799S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:52:34.2149415+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M9.5727835S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:36:18.6342995+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\TestsTree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-09-03T14:19:50.4803267+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>BinaryTree\BinaryTree.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:18:38.2110974+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Properties\AssemblyInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:17:36.7803047+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\packages.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T14:16:59.6806282+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.0056915S" EditActiveTime="PT31M51.6804501S">
+      <ModifiedDate>2017-09-03T14:14:13.9653693+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Tree.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T10:15:54.2782079+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15M58.6739743S" EditActiveTime="PT54M24.692932S">
+      <ModifiedDate>2017-09-03T11:38:08.1220583+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Node.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T06:02:11.8110576+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M13.445287S" EditActiveTime="PT3M35.600541S">
+      <ModifiedDate>2017-09-03T14:14:13.973371+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-03T05:52:21.7009142+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT38.060638S" EditActiveTime="PT5M3.3391607S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-02T18:54:59.3965704+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M30.7933848S" EditActiveTime="PT2.2048712S">
+      <ModifiedDate>2017-09-01T22:05:28.8710472+02:00</ModifiedDate>
+      <ModifiedBy>Dom</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Praca\Projekty\VS17\Projects\BinaryTree\BinaryTree\BinaryTree.csproj</ProjectName>
+      <CreatedDate>2017-09-01T22:05:18.2083925+02:00</CreatedDate>
+      <ViewedBy>Dom</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
